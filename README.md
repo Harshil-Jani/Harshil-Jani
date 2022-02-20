@@ -1,6 +1,5 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.png](./images/github-banner.png)
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
@@ -61,7 +60,7 @@
 <p align="center">
 <a href="https://discord.com/users/Harshil%20Jani#0294" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Harshil Jani"/></a> 
 <a href="https://www.linkedin.com/in/harshil1/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Harshil-Linkedin"/></a> 
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Harshil MailID>
+<a href="mailto:harshiljani2002@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Harshil MailID>
 <br>
 <br>
 </p>
