@@ -4,8 +4,16 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋+I'm+Harshil;+An+Open+Source+Enthusiast+☀;Electronics+Engineering+Student;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
-</p>
+  
+- 🌱 I’m currently working on **Compilers, Web Dev, CLIs**.
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@harshiljani2002)
+
+- 💬 Ask me about **Linux & OpenSource**
+
+- 📫 How to reach me **[harshiljani2002@gmail.com](mailto:harshiljani2002@gmail.com)**
+
+- ⚡ Fun fact - **I learn things accidently**
 
 <br>
 
@@ -46,8 +54,6 @@
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshil-Jani&show_icons=true&count_private=true&theme=react" />
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Harshil-Jani&theme=react" />
-
-[![Harshil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Harshil-Jani&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
