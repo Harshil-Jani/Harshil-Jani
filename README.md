@@ -52,6 +52,7 @@
 <!-- ----------- GITHUB STATS SECTION ------------ -->
 
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshil-Jani&show_icons=true&count_private=true&theme=react" />
+  
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ----------- GITHUB STATS SECTION END ------------ -->
