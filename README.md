@@ -5,7 +5,7 @@
 
 <p align="center">
   
-- 🌱 I’m currently working on **Rust Lang, Data Visualization and Lower level systems*.
+- 🌱 I’m currently working on **Rust Lang, Data Visualization and Lower level systems**.
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@harshiljani2002)
 
