@@ -14,6 +14,7 @@
 - 📫 How to reach me **[harshiljani2002@gmail.com](mailto:harshiljani2002@gmail.com)**
 
 - ⚡ Fun fact - **I learn things accidently**
+<h2> I suffer from Performance Anxiety. </h2> GIVE ME SOME TIME TO IMPROVE AND NOT JUST GET ON ME FOR MY COMMUNICATION SKILLS. 
 
 <br>
 
