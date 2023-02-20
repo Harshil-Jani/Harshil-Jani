@@ -10,8 +10,7 @@ Experience | Organization | About Work |
 
 <!-- ----------- HEAD SECTION ------------ -->
 
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+---
 
 <p align="center">
   
@@ -23,9 +22,8 @@ Experience | Organization | About Work |
 
 - ⚡ Fun fact - **I learn things accidently**
 <br>
-
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+  
+---
 <!-- ----------- HEAD SECTION END ------------ -->
 
 <!-- ----------- GITHUB STATS SECTION ------------ -->
