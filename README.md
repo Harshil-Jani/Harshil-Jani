@@ -1,6 +1,12 @@
 ### Greetings !
 
-I'm Harshil Jani, a third year undergraduate student in NIT Surat, India. I do open source for fun. I like playing with some technologies in market and learn more about their pros and cons. But rather than the future , I am more worried about the historical footprints of the technologies. I did Google Summer of Code project in 2022 with CERN-HSF and here is my [journey book](https://harshil-jani.github.io/GSOC-book/) . Also, I crafted my [portfolio](https://harshil-jani.netlify.com/) to demonstrate my form of blogging and expressing my personality. 
+I'm Harshil Jani, a third year undergraduate student in NIT Surat, India. I do open source all the time. I like playing with some technologies in market and learn more about their pros and cons. 
+
+Experience | Organization | About Work |
+---|---|---|
+**Google Summer of Code 2022** | CERN-HSF | [Journey Book](https://harshil-jani.github.io/GSOC-book/)|
+**Code for Gov Tech** | Sunbird-RC | [Event Blog](https://medium.com/@harshiljani2002/independence-in-indian-computing-industry-ceb27fc047cb) |
+**Work From Campus Intern** | SamagraX | Ongoing Work (Description can be found on Resume / Socials if interested) |
 
 <!-- ----------- HEAD SECTION ------------ -->
 
