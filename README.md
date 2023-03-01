@@ -2,11 +2,15 @@
 
 I'm Harshil Jani, a third year undergraduate student in NIT Surat, India. I do open source all the time. I like playing with some technologies in market and learn more about their pros and cons. 
 
+Here is ultimate , minimalistic SSG and rustic portfolio cum blog site of mine where I keep posting things. 
+
+**Link [The Harshil Jani](https://theharshiljani.tech)**
+
 Experience | Organization | About Work |
 ---|---|---|
 **Google Summer of Code 2022** | CERN-HSF | [Journey Book](https://harshil-jani.github.io/GSOC-book/)|
 **Code for Gov Tech** | Sunbird-RC | [Event Blog](https://medium.com/@harshiljani2002/independence-in-indian-computing-industry-ceb27fc047cb) |
-**Work From Campus Intern** | SamagraX | Ongoing Work (Description can be found on Resume / Socials if interested) |
+**Work From Campus Intern** | SamagraX |<ul><li>Samarth Admin</li><li>Data Mapping Console</li><li>ULP-Devops</li></ul>|
 
 <!-- ----------- HEAD SECTION ------------ -->
 
