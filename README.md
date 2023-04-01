@@ -11,6 +11,7 @@ Experience | Organization | About Work |
 **Google Summer of Code 2022** | CERN-HSF | [Journey Book](https://harshil-jani.github.io/GSOC-book/)|
 **Code for Gov Tech** | Sunbird-RC | [Event Blog](https://medium.com/@harshiljani2002/independence-in-indian-computing-industry-ceb27fc047cb) |
 **Work From Campus Intern** | SamagraX |<ul><li>Samarth Admin</li><li>Data Mapping Console</li><li>ULP-Devops</li></ul>|
+**XROS (Extended Reality Open Source)** | Osenorth | Working on AR based personal assistent integrated with ChatGPT. | 
 
 <!-- ----------- HEAD SECTION ------------ -->
 
