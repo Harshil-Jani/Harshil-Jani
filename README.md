@@ -19,7 +19,7 @@ Experience | Organization | About Work |
 
 <p align="center">
   
-- 🌱 I’m currently working on **Distributed Systems, Rust Lang, System Programming**.
+- 🌱 I’m currently working on **Distributed Systems, A language named after fungus which has crab as its mascot (cannot write name due to a draft of TradeMark Policy maybe it won't ever make it but still), System Programming**.
 
 - 💬 Ask me about **Linux & OpenSource**
 
