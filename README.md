@@ -57,5 +57,7 @@ Experience | Organization | About Work |
 <a href="https://www.linkedin.com/in/harshil1/">
   <img align="left" alt="Harshil's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
+<br/>
+<hr/>  
   
-  
+[Publicly Available Slots](https://cal.com/harshil-jani)
