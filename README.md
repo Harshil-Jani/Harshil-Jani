@@ -9,10 +9,10 @@ Here is ultimate , minimalistic SSG and rustic portfolio cum blog site of mine w
 Experience | Organization | About Work |
 ---|---|---|
 **Google Summer of Code 2022** | CERN-HSF | [Journey Book](https://harshil-jani.github.io/GSOC-book/)|
-**Code for Gov Tech** | Sunbird-RC | [Event Blog](https://medium.com/@harshiljani2002/independence-in-indian-computing-industry-ceb27fc047cb) |
+**Code for Gov Tech 2022** | Sunbird-RC | [Event Blog](https://medium.com/@harshiljani2002/independence-in-indian-computing-industry-ceb27fc047cb) |
 **Work From Campus Intern** | SamagraX |[Work Report](https://gist.github.com/Harshil-Jani/7c9734a30038b837fc759f064578ca5f)|
-**XROS (Extended Reality Open Source)** | Osenorth | Working on AR based personal assistent integrated with ChatGPT. |
-**Google Summer of Code 2023** | Freifunk | Matrix Bridge for Qaul (Starting Soon) | 
+**XROS (Extended Reality Open Source) 2023** | Osenorth | Working on AR based personal assistent integrated with ChatGPT. |
+**Google Summer of Code 2023** | Freifunk | [Journey Book 2.0](https://github.com/Harshil-Jani/GSoC-Book-2.0) | 
 **Summer of Bitcoin 2023** | Rust Bitcoin | Key and Pre-hash image based availability (Starting Soon) | 
 
 <!-- ----------- HEAD SECTION ------------ -->
