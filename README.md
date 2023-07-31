@@ -14,7 +14,6 @@ Experience | Organization | About Work |
 **XROS (Extended Reality Open Source) 2023** | Osenorth | Working on AR based personal assistent integrated with ChatGPT. |
 **Google Summer of Code 2023** | Freifunk | [Journey Book 2.0](https://github.com/Harshil-Jani/GSoC-Book-2.0) | 
 **Summer of Bitcoin 2023** | Rust Bitcoin | [Project Report](https://gist.github.com/Harshil-Jani/1f984abed6e2991add7a64b4965265da) | 
-**Github DPG Community Manager** | OpenFisca | Trained by Github to manage openFisca DPG as Community Manager |
 <!-- ----------- HEAD SECTION ------------ -->
 
 ---
