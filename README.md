@@ -16,6 +16,7 @@ Experience | Organization | About Work |
 **XROS (Extended Reality Open Source) 2023** | Osenorth | Worked on AR based application with integration with OpenAI APIs. |
 **Google Summer of Code 2023** | Freifunk | [Journey Book 2.0](https://github.com/Harshil-Jani/GSoC-Book-2.0) | 
 **Summer of Bitcoin 2023** | Rust Bitcoin | [Project Report](https://gist.github.com/Harshil-Jani/1f984abed6e2991add7a64b4965265da) | 
+**Summer of Bitcoin 2024** | Caravan | Researching on UTXO set for analysing Wallet Health | 
 <!-- ----------- HEAD SECTION ------------ -->
   
 ---
