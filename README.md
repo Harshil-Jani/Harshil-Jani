@@ -1,4 +1,4 @@
-## Greetings !
+## Hello there !
 
 - I am a hobby programmer, Interested in open source softwares, Loving Rust Lang 🦀, Processors and Smart Technology.
 
@@ -6,7 +6,11 @@
 
 - Fan of Richard Stallman and his philosophies about softwares.
 
-- Polite Electronics and Computer Science Engineer @ National Institute of Technology - Surat.
+- Polite Electronics and Computer Science Engineering Student @ National Institute of Technology - Surat. (Graduated in May 2024)
+
+- Creator of [medium-to-markdown](https://crates.io/crates/medium-to-markdown) rust crate.
+
+- Read my tech blogs at [Personal Blog Site](https://harshil.prose.sh/) or on [Medium](https://medium.com/@harshiljani2002)
 
 Experience | Organization | About Work |
 ---|---|---|
@@ -17,6 +21,7 @@ Experience | Organization | About Work |
 **Google Summer of Code 2023** | Freifunk | [Journey Book 2.0](https://github.com/Harshil-Jani/GSoC-Book-2.0) | 
 **Summer of Bitcoin 2023** | Rust Bitcoin | [Project Report](https://gist.github.com/Harshil-Jani/1f984abed6e2991add7a64b4965265da) | 
 **Summer of Bitcoin 2024** | Caravan | Researching on UTXO set for analysing Wallet Health | 
+**SDE-1 (Backend)** | Angel One Wealth | Working on writing code that breaks the system |
 <!-- ----------- HEAD SECTION ------------ -->
   
 ---
