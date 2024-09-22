@@ -8,7 +8,7 @@
 
 - Polite Electronics and Computer Science Engineering Student @ National Institute of Technology - Surat. (Graduated in May 2024)
 
-- Creator of [medium-to-markdown](https://crates.io/crates/medium-to-markdown) rust crate.
+- Creator of [medium-to-markdown](https://crates.io/crates/medium-to-markdown) and [esqlz](https://crates.io/crates/esqlz) rust crate.
 
 - Read my tech blogs at [Personal Blog Site](https://harshil.prose.sh/) or on [Medium](https://medium.com/@harshiljani2002)
 
