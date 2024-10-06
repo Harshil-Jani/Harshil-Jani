@@ -35,5 +35,9 @@ Experience | Organization | About Work |
 - [Medium](https://medium.com/@harshiljani2002)
 - [Twitter](https://twitter.com/harshil_jani28)
 
-![image](https://github.com/Harshil-Jani/Harshil-Jani/assets/79367883/148a0db7-ad34-4fc8-9de7-03e834876dd3)
 
+[![Harshil-Jani's GitHub | Stats](https://stats.quira.sh/Harshil-Jani/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Harshil-Jani)
+
+[![Harshil-Jani's GitHub | Languages Over Time](https://stats.quira.sh/Harshil-Jani/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Harshil-Jani)
+
+[![Harshil-Jani's GitHub | Topics Over Time](https://stats.quira.sh/Harshil-Jani/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Harshil-Jani)
