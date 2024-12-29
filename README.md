@@ -12,6 +12,8 @@
 
 - Read my tech blogs at [Personal Blog Site](https://harshil.prose.sh/) or on [Medium](https://medium.com/@harshiljani2002)
 
+- Working on my skills to learn about the ability to get things done without any excuses.
+
 Experience | Organization | About Work |
 ---|---|---|
 **Google Summer of Code 2022** | CERN-HSF | [Journey Book](https://harshil-jani.github.io/GSOC-book/)|
