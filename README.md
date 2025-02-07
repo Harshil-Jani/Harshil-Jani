@@ -1,16 +1,16 @@
 ## Hello there !
 
-- I am a hobby programmer, Interested in open source softwares, Loving Rust Lang 🦀, Processors and Smart Technology.
+- Software Engineer and hobbyist Technical Writer, Interested in open source softwares, Loving Rust Lang 🦀, Processors and Smart Technology.
 
-- Mimimalist Tech enthusiast.
+- Mimimalist tech enthusiast trying to build complex things simple.
 
 - Fan of Richard Stallman and his philosophies about softwares.
 
-- Polite Electronics and Computer Science Engineering Student @ National Institute of Technology - Surat. (Graduated in May 2024)
+- Polite Electronics (Majors) and Computer Science (Minors) Engineering Student @ National Institute of Technology - Surat. (Graduated in May 2024)
 
-- Creator of [medium-to-markdown](https://crates.io/crates/medium-to-markdown) and [esqlz](https://crates.io/crates/esqlz) rust crate.
+- Creator of [medium-to-markdown](https://crates.io/crates/medium-to-markdown) and [esqlz](https://crates.io/crates/esqlz) rust crates.
 
-- Read my tech blogs at [Personal Blog Site](https://harshil.prose.sh/) or on [Medium](https://medium.com/@harshiljani2002)
+- Read my tech blogs on [Medium](https://medium.com/@harshiljani2002)
 
 - Working on my skills to learn about the ability to get shit done without any excuses.
 
@@ -22,24 +22,12 @@ Experience | Organization | About Work |
 **XROS (Extended Reality Open Source) 2023** | Osenorth | Worked on AR based application with integration with OpenAI APIs. |
 **Google Summer of Code 2023** | Freifunk | [Journey Book 2.0](https://github.com/Harshil-Jani/GSoC-Book-2.0) | 
 **Summer of Bitcoin 2023** | Rust Bitcoin | [Project Report](https://gist.github.com/Harshil-Jani/1f984abed6e2991add7a64b4965265da) | 
-**Summer of Bitcoin 2024** | Caravan | Researching on UTXO set for analysing Wallet Health | 
+**Summer of Bitcoin 2024** | Caravan | [Research Work](https://docs.google.com/document/d/e/2PACX-1vRjU3428pbP2lvP4Gl4zxAnNH_CUbRydTEOds7ZYKqkcl_0ZNFfa3C025vhLGiDmlYOfzFJNEoVHkh7/pub) | 
 **SDE-1 (Backend)** | Angel One Wealth | Working on writing code that breaks the system |
 <!-- ----------- HEAD SECTION ------------ -->
   
 ---
-<!-- ----------- HEAD SECTION END ------------ -->
-
-<!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
 ## Socials
-- [Blog Site](https://harshil.prose.sh/) 
 - [Linkedin](https://linkedin.com/in/harshil1)
 - [Medium](https://medium.com/@harshiljani2002)
-- [Twitter](https://twitter.com/harshil_jani28)
-
-
-[![Harshil-Jani's GitHub | Stats](https://stats.quira.sh/Harshil-Jani/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Harshil-Jani)
-
-[![Harshil-Jani's GitHub | Languages Over Time](https://stats.quira.sh/Harshil-Jani/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Harshil-Jani)
-
-[![Harshil-Jani's GitHub | Topics Over Time](https://stats.quira.sh/Harshil-Jani/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Harshil-Jani)
