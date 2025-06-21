@@ -23,7 +23,7 @@ Experience | Organization | About Work |
 **Google Summer of Code 2023** | Freifunk | [Journey Book 2.0](https://github.com/Harshil-Jani/GSoC-Book-2.0) | 
 **Summer of Bitcoin 2023** | Rust Bitcoin | [Project Report](https://gist.github.com/Harshil-Jani/1f984abed6e2991add7a64b4965265da) | 
 **Summer of Bitcoin 2024** | Caravan | [Research Work](https://docs.google.com/document/d/e/2PACX-1vRjU3428pbP2lvP4Gl4zxAnNH_CUbRydTEOds7ZYKqkcl_0ZNFfa3C025vhLGiDmlYOfzFJNEoVHkh7/pub) | 
-**SDE-1 (Backend)** | Angel One Wealth | Working on writing code that breaks the system |
+**Backend Engineer** | Angel One Wealth | Working on writing code that breaks the system |
 <!-- ----------- HEAD SECTION ------------ -->
   
 ---
