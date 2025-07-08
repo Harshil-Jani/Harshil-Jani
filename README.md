@@ -12,7 +12,7 @@
 
 - Read my tech blogs on [Medium](https://medium.com/@harshiljani2002)
 
-- Working on my skills to learn about the ability to get shit done without any excuses.
+- Working on my skills to learn the ability to get shit done without any excuses.
 
 Experience | Organization | About Work |
 ---|---|---|
