@@ -8,7 +8,7 @@
 
 - Polite Electronics (Majors) and Computer Science (Minors) Engineering Student @ National Institute of Technology - Surat. (Graduated in May 2024)
 
-- Creator of [medium-to-markdown](https://crates.io/crates/medium-to-markdown) and [esqlz](https://crates.io/crates/esqlz) rust crates.
+- Creator of [medium-to-markdown](https://crates.io/crates/medium-to-markdown) and [esqlz](https://crates.io/crates/esqlz) rust crates and [fastapi-bgtasks-dashboard](https://pypi.org/project/fastapi-bgtasks-dashboard/) Python package.
 
 - Read my tech blogs on [Medium](https://medium.com/@harshiljani2002)
 
