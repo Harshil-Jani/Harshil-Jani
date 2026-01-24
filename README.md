@@ -32,3 +32,4 @@ Experience | Organization | About Work |
 ## Socials
 - [Linkedin](https://linkedin.com/in/harshil1)
 - [Medium](https://medium.com/@harshiljani2002)
+- [X (formely twitter)](https://x.com/harshil_jani28)
