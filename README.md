@@ -1,7 +1,9 @@
 ## Hello there !
 
 - Software Engineer and hobbyist Technical Writer, Interested in open source softwares, Loving Rust Lang 🦀, Processors and Smart Technology.
-
+  
+- 🍃 On a mission to replace every service based Software Business with my team of agents [Amazon Kindle Agency](https://github.com/Harshil-Jani/kindle-book-agency)
+  
 - Mimimalist tech enthusiast trying to build complex things simple.
 
 - Fan of Richard Stallman and his philosophies about softwares.
